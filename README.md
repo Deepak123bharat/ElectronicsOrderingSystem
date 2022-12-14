@@ -29,6 +29,10 @@ POST : http://localhost:3000/api/order/create
 GET : http://localhost:3000/api/order/
 ```
 
+### View Order by ID
+```lua
+GET : http://localhost:3000/api/order/id
+```
 
 ### Submit Final Order
 ```lua
